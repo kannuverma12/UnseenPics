@@ -5,8 +5,18 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <ImageView android:id="@+id/SingleView"
+    <ImageView
+        android:id="@+id/SingleView"
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent"/>
+        android:layout_height="458dp" />
+
+    <Button
+        android:id="@+id/set_wallpaper"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Set Wallpaper"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="94dp" />
 
 </LinearLayout>
