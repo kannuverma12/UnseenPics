@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.webkit.WebView;
 import android.widget.AdapterView;
 import android.widget.GridView;
 
@@ -27,5 +28,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+
+//        WebView adsDisplay = (WebView) findViewById(R.id.adsDisplay);
+//        adsDisplay.getSettings().setJavaScriptEnabled(true);
+//        adsDisplay.loadUrl("https://picsitis.wordpress.com/ad/");
     }
 }

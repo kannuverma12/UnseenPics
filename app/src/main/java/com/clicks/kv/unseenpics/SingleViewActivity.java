@@ -8,6 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.DisplayMetrics;
 import android.view.View;
+import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.ImageView;
 
@@ -49,6 +50,8 @@ public class SingleViewActivity extends AppCompatActivity {
 
         bitmap1 = bitmapDrawable.getBitmap();
 
+
+
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -72,6 +75,10 @@ public class SingleViewActivity extends AppCompatActivity {
             }
         });
 
+
+//        WebView adsDisplay = (WebView) findViewById(R.id.adsDisplay);
+//        adsDisplay.getSettings().setJavaScriptEnabled(true);
+//        adsDisplay.loadUrl("https://picsitis.wordpress.com/ad/");
     }
 
     public void GetScreenWidthHeight(){
