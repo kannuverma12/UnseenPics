@@ -1,0 +1,22 @@
+{
+  "Version": "1.0",
+  "CredentialsProvider": {
+    "CognitoIdentity": {
+      "Default": {
+
+        "Region": "US_East_2"
+      }
+    }
+  },
+  "IdentityManager": {
+    "Default": {}
+  },
+  "CognitoUserPool": {
+    "Default": {
+      "AppClientSecret": "jJDptoFOuM6cnSW2JxwzWmpVxhYFA3bFya7niifv",
+      "AppClientId": "AKIAJBOOSFXXNZBEGCMA",
+
+      "Region": "US EAST (Ohio)"
+    }
+  }
+}

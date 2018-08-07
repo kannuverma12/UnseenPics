@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/c355e8ec9c1949d31eeaf83ef91920f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/59d5600801109198236ef08aea619b85/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amazonaws:aws-android-sdk-mobile-client:2.6.7] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-mobile-client-2.6.7.aar/4a6ad6fe9f74f5f18a5227c1415cf6a0/AndroidManifest.xml:2:1-4:12
+MERGED from [com.amazonaws:aws-android-sdk-auth-core:2.6.7] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/aws-android-sdk-auth-core-2.6.7.aar/0be25a7e368a974bf6e73bea9706514c/AndroidManifest.xml:2:1-4:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/28ecfb8a362b7714d8050d96433333d5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e7ee31cf0673076d3f2e5d593cde513d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/90367928dad0d883b350c47cca78fed9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/6313e6f42f621d354ad0c1229f40d744/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/000afa26ebc1fe8c19d96c0980a6771b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3689fe8e7ee2cb7dd29e51a0abc37517/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2eed352291bfbffe1bec41c543aac782/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dcd5b7f632b360fa546f93a13597b528/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2c825b262a6b074691619a13df1ba717/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/292fda5b86128ec0c9829013b0ca175c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a07b944ebdb7b3a800b82098664adb7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b9055d6a2bf38d1d220b30c7cb4761f9/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+	package
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:11-69
+	android:targetSandboxVersion
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:4:5-37
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:6:5-72
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:6:22-69
+uses-permission#android.permission.SET_WALLPAPER_HINTS
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:12:22-77
+application
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:15:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/59d5600801109198236ef08aea619b85/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/59d5600801109198236ef08aea619b85/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/28ecfb8a362b7714d8050d96433333d5/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/28ecfb8a362b7714d8050d96433333d5/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/6313e6f42f621d354ad0c1229f40d744/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/6313e6f42f621d354ad0c1229f40d744/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:19:9-50
+activity#com.clicks.kv.unseenpics.MainActivity
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:23:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.clicks.kv.unseenpics.SingleViewActivity
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:31:9-67
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:31:19-64
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:33:9-35:38
+	android:enabled
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:35:13-35
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:34:13-93
+meta-data#com.clicks.kv.glide.CustomGlideModule
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:37:9-39:43
+	android:value
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:39:13-40
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:38:13-65
+meta-data#com.clicks.kv.glide.CustomLibraryGlideModule
+ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:41:9-43:50
+	android:value
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:43:13-47
+	android:name
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:42:13-72
+uses-sdk
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/c355e8ec9c1949d31eeaf83ef91920f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/c355e8ec9c1949d31eeaf83ef91920f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/59d5600801109198236ef08aea619b85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/59d5600801109198236ef08aea619b85/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/28ecfb8a362b7714d8050d96433333d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/28ecfb8a362b7714d8050d96433333d5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e7ee31cf0673076d3f2e5d593cde513d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/e7ee31cf0673076d3f2e5d593cde513d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/90367928dad0d883b350c47cca78fed9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/90367928dad0d883b350c47cca78fed9/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/6313e6f42f621d354ad0c1229f40d744/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/6313e6f42f621d354ad0c1229f40d744/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/000afa26ebc1fe8c19d96c0980a6771b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/000afa26ebc1fe8c19d96c0980a6771b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3689fe8e7ee2cb7dd29e51a0abc37517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3689fe8e7ee2cb7dd29e51a0abc37517/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2eed352291bfbffe1bec41c543aac782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/2eed352291bfbffe1bec41c543aac782/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dcd5b7f632b360fa546f93a13597b528/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/dcd5b7f632b360fa546f93a13597b528/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2c825b262a6b074691619a13df1ba717/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2c825b262a6b074691619a13df1ba717/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/292fda5b86128ec0c9829013b0ca175c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/292fda5b86128ec0c9829013b0ca175c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a07b944ebdb7b3a800b82098664adb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1a07b944ebdb7b3a800b82098664adb7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b9055d6a2bf38d1d220b30c7cb4761f9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/karanverma/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b9055d6a2bf38d1d220b30c7cb4761f9/AndroidManifest.xml:20:5-44
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/karanverma/AndroidStudioProjects/UnseenPics/app/src/main/AndroidManifest.xml:2:1-86:12 reason: com.amazonaws.mobile.client has a targetSdkVersion < 4
