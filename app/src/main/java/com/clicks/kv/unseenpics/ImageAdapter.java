@@ -27,6 +27,7 @@ public class ImageAdapter extends BaseAdapter {
     private Context mContext;
 
     // Keep all Images in array
+    //change the size equal to images in s3 bucket
     public Integer[] mThumbIds = new Integer[10];
 //    {
 //
@@ -61,62 +62,9 @@ public class ImageAdapter extends BaseAdapter {
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ImageView imageView = new ImageView(mContext);
-        //imageView.setImageResource(mThumbIds[position]);
-//        imageView.setScaleType(ImageView.ScaleType.CENTER_CROP);
-        //imageView.setImageBitmap(decodeSampledBitmapFromResource(mContext.getResources(), mThumbIds[position], 100, 100));
-//        imageView.setLayoutParams(new GridView.LayoutParams(280, 300));
-
-
-
         DisplayImage.getInstance().displayImageForUser(mContext, imageView, KEY, position+1);
-
-
-
-
-
         return imageView;
     }
 
-    public static int calculateInSampleSize(BitmapFactory.Options options,
-                                            int reqWidth, int reqHeight) {
-        // Raw height and width of image
-        final int height = options.outHeight;
-        final int width = options.outWidth;
-        int inSampleSize = 1;
-
-        if (height > reqHeight || width > reqWidth) {
-
-            // Calculate ratios of height and width to requested height and
-            // width
-            final int heightRatio = Math.round((float) height
-                    / (float) reqHeight);
-            final int widthRatio = Math.round((float) width / (float) reqWidth);
-
-            // Choose the smallest ratio as inSampleSize value, this will
-            // guarantee
-            // a final image with both dimensions larger than or equal to the
-            // requested height and width.
-            inSampleSize = heightRatio < widthRatio ? heightRatio : widthRatio;
-        }
-
-        return inSampleSize;
-    }
-
-    public static Bitmap decodeSampledBitmapFromResource(Resources res,
-                                                         int resId, int reqWidth, int reqHeight) {
-
-        // First decode with inJustDecodeBounds=true to check dimensions
-        final BitmapFactory.Options options = new BitmapFactory.Options();
-        options.inJustDecodeBounds = true;
-        BitmapFactory.decodeResource(res, resId, options);
-
-        // Calculate inSampleSize
-        options.inSampleSize = calculateInSampleSize(options, reqWidth,
-                reqHeight);
-
-        // Decode bitmap with inSampleSize set
-        options.inJustDecodeBounds = false;
-        return BitmapFactory.decodeResource(res, resId, options);
-    }
 
 }

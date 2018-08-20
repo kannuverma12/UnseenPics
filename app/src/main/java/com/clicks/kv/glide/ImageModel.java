@@ -1,9 +1,5 @@
 package com.clicks.kv.glide;
 
-import com.bumptech.glide.load.Key;
-
-import java.security.MessageDigest;
-
 public class ImageModel {
 
     String id;
